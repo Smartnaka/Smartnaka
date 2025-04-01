@@ -1,6 +1,6 @@
 
 # Hello World!, I'm Israel, a Mobile App Developer 👋🏼:
-<h3 align="center">I'm a React Native Developer</h3>
+<h3 align="center">I am a passionate Software Developer who enjoys spending countless hours coding</h3>
 
 <p align="left"> <a href="https://twitter.com/smartnakamoura" target="blank"><img src="https://img.shields.io/twitter/follow/smartnakamoura?logo=twitter&style=for-the-badge" alt="smartnakamoura" /></a> </p>
 
